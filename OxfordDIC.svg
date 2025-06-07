@@ -2,7 +2,7 @@
 
  <g>
   <title>Layer 1</title>
-  <text font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="10" id="svg_3" y="10.68235" x="4.89409" stroke-width="0" fill="#000000">Ox</text>
-  <text stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="10" id="svg_4" y="18.68238" x="1.83525" stroke-width="0" fill="#000000">ford</text>
+  <text style="cursor: move;" font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="10" id="svg_3" y="10.68235" x="4.89409" stroke-width="0" fill="#ffffff">Ox</text>
+  <text style="cursor: move;" stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="10" id="svg_4" y="18.68238" x="1.83525" stroke-width="0" fill="#ffffff">ford</text>
  </g>
 </svg>
